@@ -4,6 +4,8 @@
   It will show the calclulation of 888 + 10000 = 10888.
   The output will appear on the NetBean and can be captured by wireshark.
 
+ The connection file will be between SoketHAIServer.java and SocketHAIClient.java
+
   Mohammad Ariff Bin Idris (2017430762)
 */
 package sockethaiclient;
